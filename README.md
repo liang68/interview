@@ -13,6 +13,6 @@
  (0,0,0)->@(@表示空集)<br />
  观察以上规律，与计算机中数据存储方式相似，故可以通过一个整型数与集合映射...000 ~ 111...111（表示有，表示无，反之亦可），通过该整型数逐次增可遍历获取所有的数，即获取集合的相应子集。
  ### 代码下载地址: ###
- https://github.com/pony-maggie/PowerSetDemo <br/>
+ https://github.com/liang68/interview <br/>
  或参看我的个人博客 <br/>
  http://www.cnblogs.com/liang1101/p/6372115.html
